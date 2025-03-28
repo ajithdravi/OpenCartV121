@@ -1,0 +1,2 @@
+cd C:\Ajith\Automation\solar\OpenCartV121
+mvn clean test
